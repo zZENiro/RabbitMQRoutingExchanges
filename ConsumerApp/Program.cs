@@ -8,9 +8,9 @@ namespace ConsumerApp
 {
     class Program
     {
-        const string queue_1 = "queue_1";
-        const string exchange_1 = "ex_1";
-        const string exchange_2 = "ex_2";
+        const string queue_1 = "q_1";
+        const string exchange_1 = "exchnage_1";
+        const string exchange_2 = "exchnage_2";
         static string consumerName;
 
         static void Main(string[] args)

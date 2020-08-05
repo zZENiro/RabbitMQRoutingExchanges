@@ -1,0 +1,16 @@
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\SenderApp.exe
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\SenderApp.deps.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\SenderApp.runtimeconfig.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\SenderApp.runtimeconfig.dev.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\SenderApp.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\SenderApp.pdb
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.csprojAssemblyReference.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.AssemblyInfoInputs.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.AssemblyInfo.cs
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.csproj.CoreCompileInputs.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.csproj.CopyComplete
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.pdb
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\senderapp\obj\Debug\netcoreapp3.1\SenderApp.genruntimeconfig.cache
