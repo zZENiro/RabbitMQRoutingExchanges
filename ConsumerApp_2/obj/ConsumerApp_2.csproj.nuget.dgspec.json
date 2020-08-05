@@ -44,7 +44,7 @@
           "dependencies": {
             "RabbitMQ.Client": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[6.1.0, )"
             }
           },
           "imports": [

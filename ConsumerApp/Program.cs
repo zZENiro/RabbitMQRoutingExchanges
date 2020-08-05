@@ -38,6 +38,9 @@ namespace ConsumerApp
                 };
 
                 chanel.BasicConsume(queue_1, false, consumer);
+
+                System.Console.WriteLine($"{consumerName} is started!");
+                Console.ReadKey();
             }
         }
 

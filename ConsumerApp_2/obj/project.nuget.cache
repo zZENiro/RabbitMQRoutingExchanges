@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SsB4OwBLPKPYGgdtYrGXayisdZ58UPBrQGzk6ACUk52MhSdUH+6FilBJO6GvZcTvtfTiesbngLxzflF+UJyPbg==",
+  "dgSpecHash": "dmfiGRMVppWUHMXjQ1jYufdOuZAiAbPIluxC3tdlBuelG8uoNkckwrNpnekmEY2BWE3x2ez0QlywpQ+fThGVvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\zZEN\\Desktop\\rabbitMQexamples\\ExchangesRoutingRabbitMQ\\ConsumerApp_2\\ConsumerApp_2.csproj",
   "expectedPackageFiles": [
