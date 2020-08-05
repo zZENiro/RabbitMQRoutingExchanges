@@ -1,0 +1,16 @@
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\ConsumerApp.exe
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\ConsumerApp.deps.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\ConsumerApp.runtimeconfig.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\ConsumerApp.runtimeconfig.dev.json
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\ConsumerApp.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\ConsumerApp.pdb
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.csprojAssemblyReference.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.AssemblyInfoInputs.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.AssemblyInfo.cs
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.csproj.CoreCompileInputs.cache
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.csproj.CopyComplete
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.dll
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.pdb
+C:\Users\zZEN\Desktop\rabbitMQexamples\ExchangesRoutingRabbitMQ\ConsumerApp\obj\Debug\netcoreapp3.1\ConsumerApp.genruntimeconfig.cache
